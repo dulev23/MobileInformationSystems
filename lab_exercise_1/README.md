@@ -1,16 +1,10 @@
-# lab_exercise_1
+# Laboratory exercise 1
 
-A new Flutter project.
+## 1. Home Screen
+<img width="1344" height="2992" alt="home_screen" src="https://github.com/user-attachments/assets/a1203dc5-7ccc-4daa-b624-f39728c7e459" />
 
-## Getting Started
+## 2. Expired Exam
+<img width="1344" height="2992" alt="expired_exam" src="https://github.com/user-attachments/assets/2420102f-43dd-48bc-9d02-8db166aad414" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 3. Upcoming Exam
+<img width="1344" height="2992" alt="upcoming_exam" src="https://github.com/user-attachments/assets/75cdaaf4-3964-4a6e-822e-98a26394c16f" />
